@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "allmusic",
+    "name": "AllMusic",
+    "description": "HeartAge_server_mod",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Color_yr"
+    ],
+    "credits": "This mod is use in HeartAge Minecraft Server.",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
