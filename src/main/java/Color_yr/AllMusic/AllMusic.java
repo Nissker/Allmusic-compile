@@ -21,7 +21,7 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import java.nio.charset.StandardCharsets;
 
-@Mod(modid = AllMusic.MODID, version = AllMusic.VERSION, acceptedMinecraftVersions = "[1.12,)")
+@Mod(modid = AllMusic.MODID, version = AllMusic.VERSION, acceptedMinecraftVersions = "[1.16,)")
 public class AllMusic {
     static final String MODID = "allmusic";
     static final String VERSION = "2.4.0";
